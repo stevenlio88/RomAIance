@@ -1,0 +1,866 @@
+[
+    {
+        "user_id": "user_3b76a885",
+        "name": "Alex",
+        "age": 28,
+        "gender": "Non-binary",
+        "sexual_orientation": "Bisexual",
+        "preferences": {
+            "looking_for": "Long-term relationship",
+            "age_range": "25-35",
+            "relationship_type": "Serious commitment"
+        },
+        "hobbies": [
+            "hiking",
+            "photography",
+            "cooking",
+            "reading sci-fi"
+        ],
+        "personality_traits": [
+            "creative",
+            "adventurous",
+            "thoughtful",
+            "empathetic"
+        ],
+        "bio": "Creative soul who loves exploring nature with a camera. Always up for trying new recipes and discussing the latest sci-fi novels.",
+        "create_time": "2025-01-10T10:00:00",
+        "update_time": "2025-01-10T10:00:00"
+    },
+    {
+        "user_id": "user_af873ba1",
+        "name": "Jordan",
+        "age": 30,
+        "gender": "Female",
+        "sexual_orientation": "Heterosexual",
+        "preferences": {
+            "looking_for": "Serious relationship",
+            "age_range": "28-40",
+            "relationship_type": "Long-term partner"
+        },
+        "hobbies": [
+            "rock climbing",
+            "painting",
+            "live music",
+            "yoga"
+        ],
+        "personality_traits": [
+            "outgoing",
+            "artistic",
+            "passionate",
+            "authentic"
+        ],
+        "bio": "Artist and outdoor enthusiast. Love painting landscapes after a good climb. Music festivals are my happy place.",
+        "create_time": "2025-01-12T14:30:00",
+        "update_time": "2025-01-12T14:30:00"
+    },
+    {
+        "user_id": "user_1a486242",
+        "name": "Sam",
+        "age": 32,
+        "gender": "Male",
+        "sexual_orientation": "Heterosexual",
+        "preferences": {
+            "looking_for": "Meaningful connection",
+            "age_range": "28-38",
+            "relationship_type": "Long-term relationship"
+        },
+        "hobbies": [
+            "guitar",
+            "cycling",
+            "coffee culture",
+            "board games"
+        ],
+        "personality_traits": [
+            "laid-back",
+            "musical",
+            "curious",
+            "loyal"
+        ],
+        "bio": "Software developer by day, guitarist by night. Love exploring local coffee shops and hosting board game nights with friends.",
+        "create_time": "2025-01-15T09:15:00",
+        "update_time": "2025-01-15T09:15:00"
+    },
+    {
+        "user_id": "user_7200d3e9",
+        "name": "Riley",
+        "age": 27,
+        "gender": "Female",
+        "sexual_orientation": "Homosexual",
+        "preferences": {
+            "looking_for": "Someone special",
+            "age_range": "25-35",
+            "relationship_type": "Committed relationship"
+        },
+        "hobbies": [
+            "dancing",
+            "traveling",
+            "cooking",
+            "volunteering"
+        ],
+        "personality_traits": [
+            "energetic",
+            "compassionate",
+            "spontaneous",
+            "warm"
+        ],
+        "bio": "Dance instructor with wanderlust. Love teaching kids, exploring new cultures, and cooking meals from my travels.",
+        "create_time": "2025-01-18T16:45:00",
+        "update_time": "2025-01-18T16:45:00"
+    },
+    {
+        "user_id": "user_940d45f3",
+        "name": "Casey",
+        "age": 29,
+        "gender": "Non-binary",
+        "sexual_orientation": "Bisexual",
+        "preferences": {
+            "looking_for": "Deep connection",
+            "age_range": "26-36",
+            "relationship_type": "Long-term partnership"
+        },
+        "hobbies": [
+            "writing",
+            "meditation",
+            "indie films",
+            "gardening"
+        ],
+        "personality_traits": [
+            "introspective",
+            "gentle",
+            "creative",
+            "wise"
+        ],
+        "bio": "Writer and aspiring gardener. Find peace in quiet mornings, deep conversations, and indie cinema that makes you think.",
+        "create_time": "2025-01-20T11:20:00",
+        "update_time": "2025-01-20T11:20:00"
+    },
+    {
+        "user_id": "user_58c4bd92",
+        "name": "John",
+        "age": 31,
+        "gender": "Male",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Long-term relationship",
+            "age_range": "27-34",
+            "relationship_type": "Serious commitment"
+        },
+        "hobbies": [
+            "basketball",
+            "traveling",
+            "home brewing",
+            "guitar"
+        ],
+        "personality_traits": [
+            "easygoing",
+            "supportive",
+            "humorous",
+            "reliable"
+        ],
+        "bio": "Easygoing guy who loves exploring new cities, brewing craft beers at home, and unwinding with some guitar jams.",
+        "create_time": "2025-01-10T10:05:00",
+        "update_time": "2025-01-10T10:05:00"
+    },
+    {
+        "user_id": "user_a391fe44",
+        "name": "Priya",
+        "age": 26,
+        "gender": "Female",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Casual dating",
+            "age_range": "24-32",
+            "relationship_type": "Light, fun connection"
+        },
+        "hobbies": [
+            "yoga",
+            "painting",
+            "street food tasting",
+            "indie films"
+        ],
+        "personality_traits": [
+            "warm",
+            "curious",
+            "playful",
+            "open-minded"
+        ],
+        "bio": "Art lover and street-food explorer. I enjoy good conversations, creative sparks, and unplanned adventures.",
+        "create_time": "2025-01-10T10:07:00",
+        "update_time": "2025-01-10T10:07:00"
+    },
+    {
+        "user_id": "user_e11d9ac7",
+        "name": "Mateo",
+        "age": 34,
+        "gender": "Male",
+        "sexual_orientation": "Gay",
+        "preferences": {
+            "looking_for": "Long-term relationship",
+            "age_range": "28-40",
+            "relationship_type": "Committed partnership"
+        },
+        "hobbies": [
+            "rock climbing",
+            "board games",
+            "wine tasting",
+            "DIY projects"
+        ],
+        "personality_traits": [
+            "ambitious",
+            "loyal",
+            "practical",
+            "funny"
+        ],
+        "bio": "Rock climber and DIY tinkerer. I love a good challenge—whether on a wall, at work, or in a complicated board game.",
+        "create_time": "2025-01-10T10:10:00",
+        "update_time": "2025-01-10T10:10:00"
+    },
+    {
+        "user_id": "user_7ff2a3d1",
+        "name": "Hana",
+        "age": 30,
+        "gender": "Female",
+        "sexual_orientation": "Bisexual",
+        "preferences": {
+            "looking_for": "Meaningful connection",
+            "age_range": "27-37",
+            "relationship_type": "Open to serious but not rushed"
+        },
+        "hobbies": [
+            "ceramics",
+            "baking sourdough",
+            "museum hopping",
+            "pilates"
+        ],
+        "personality_traits": [
+            "calm",
+            "observant",
+            "intellectual",
+            "kind-hearted"
+        ],
+        "bio": "Soft-spoken yet deeply passionate about art and slow living. If you enjoy museums and fresh bread, we'll get along well.",
+        "create_time": "2025-01-10T10:12:00",
+        "update_time": "2025-01-10T10:12:00"
+    },
+    {
+        "user_id": "user_b8d92cd4",
+        "name": "Rowan",
+        "age": 29,
+        "gender": "Non-binary",
+        "sexual_orientation": "Pansexual",
+        "preferences": {
+            "looking_for": "Casual but meaningful connections",
+            "age_range": "25-35",
+            "relationship_type": "Flexible"
+        },
+        "hobbies": [
+            "coding side projects",
+            "urban gardening",
+            "DJing",
+            "thriller novels"
+        ],
+        "personality_traits": [
+            "analytical",
+            "quirky",
+            "witty",
+            "compassionate"
+        ],
+        "bio": "Part-time coder, part-time plant parent. I love music sets, late-night book talks, and people who embrace their weirdness.",
+        "create_time": "2025-01-10T10:15:00",
+        "update_time": "2025-01-10T10:15:00"
+    },
+    {
+        "user_id": "user_fa7aba75",
+        "name": "Frodo Baggins",
+        "age": 50,
+        "gender": "Male",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Meaningful connection",
+            "age_range": "40-60",
+            "relationship_type": "Companionship"
+        },
+        "hobbies": [
+            "reading",
+            "walking the Shire",
+            "storytelling",
+            "spending time with friends"
+        ],
+        "personality_traits": [
+            "thoughtful",
+            "brave",
+            "selfless",
+            "loyal"
+        ],
+        "bio": "Quiet hobbit with a big heart and a love for simple comforts. I've carried many burdens, but now I'm seeking peace, connection, and someone who values kindness and courage.",
+        "create_time": "2025-01-03T09:14:00",
+        "update_time": "2025-01-03T09:14:00"
+    },
+    {
+        "user_id": "user_8cd190b4",
+        "name": "Samwise Gamgee",
+        "age": 38,
+        "gender": "Male",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Long-term relationship",
+            "age_range": "30-45",
+            "relationship_type": "Serious commitment"
+        },
+        "hobbies": [
+            "gardening",
+            "cooking",
+            "poetry",
+            "long walks"
+        ],
+        "personality_traits": [
+            "loyal",
+            "warm-hearted",
+            "devoted",
+            "optimistic"
+        ],
+        "bio": "Simple hobbit looking for love, good food, and a beautiful garden to tend. I'm loyal to the core and believe in standing by those I care about.",
+        "create_time": "2025-01-05T14:22:00",
+        "update_time": "2025-01-05T14:22:00"
+    },
+    {
+        "user_id": "user_b8e7a7eb",
+        "name": "Aragorn",
+        "age": 87,
+        "gender": "Male",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Long-term relationship",
+            "age_range": "25-300",
+            "relationship_type": "Committed partnership"
+        },
+        "hobbies": [
+            "tracking",
+            "exploring wilderness",
+            "reading ancient lore",
+            "swordsmanship"
+        ],
+        "personality_traits": [
+            "honorable",
+            "brave",
+            "protective",
+            "wise"
+        ],
+        "bio": "Ranger and wanderer seeking someone who values loyalty and quiet strength. Deep roots, ancient wisdom, and a heart committed once and forever.",
+        "create_time": "2025-01-07T07:41:00",
+        "update_time": "2025-01-07T07:41:00"
+    },
+    {
+        "user_id": "user_dcef2370",
+        "name": "Legolas",
+        "age": 2931,
+        "gender": "Male",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Long-term companionship",
+            "age_range": "2000-6000",
+            "relationship_type": "Deep elven bond"
+        },
+        "hobbies": [
+            "archery",
+            "forest exploration",
+            "meditation",
+            "elven music"
+        ],
+        "personality_traits": [
+            "graceful",
+            "calm",
+            "perceptive",
+            "steadfast"
+        ],
+        "bio": "Elven prince with a love for nature and harmony. Seeking someone who appreciates serenity, starlight, and the beauty of the natural world.",
+        "create_time": "2025-01-08T16:55:00",
+        "update_time": "2025-01-08T16:55:00"
+    },
+    {
+        "user_id": "user_24d4d88e",
+        "name": "Gimli",
+        "age": 140,
+        "gender": "Male",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Long-term relationship",
+            "age_range": "80-180",
+            "relationship_type": "Serious commitment"
+        },
+        "hobbies": [
+            "stonecraft",
+            "axe training",
+            "drinking contests",
+            "exploring caves"
+        ],
+        "personality_traits": [
+            "loyal",
+            "bold",
+            "honest",
+            "good-humored"
+        ],
+        "bio": "Dwarven warrior with a strong heart and a love for craftsmanship. Fiercely loyal and always ready for a good laugh and a hearty ale.",
+        "create_time": "2025-01-09T12:37:00",
+        "update_time": "2025-01-09T12:37:00"
+    },
+    {
+        "user_id": "user_5c973fd9",
+        "name": "Gandalf",
+        "age": 2019,
+        "gender": "Male",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Companionship",
+            "age_range": "500-5000",
+            "relationship_type": "Deep intellectual connection"
+        },
+        "hobbies": [
+            "reading ancient texts",
+            "pipe smoking",
+            "traveling",
+            "storytelling"
+        ],
+        "personality_traits": [
+            "wise",
+            "patient",
+            "mysterious",
+            "compassionate"
+        ],
+        "bio": "Wanderer, mentor, and lover of stories. Seeking a companion who values wisdom, adventure, and the simple joy of sharing tales by the fire.",
+        "create_time": "2025-01-11T18:12:00",
+        "update_time": "2025-01-11T18:12:00"
+    },
+    {
+        "user_id": "user_0e4a0782",
+        "name": "Arwen",
+        "age": 2778,
+        "gender": "Female",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Long-term relationship",
+            "age_range": "2000-6000",
+            "relationship_type": "Deep elven bond"
+        },
+        "hobbies": [
+            "elven poetry",
+            "riding",
+            "stargazing",
+            "songcraft"
+        ],
+        "personality_traits": [
+            "compassionate",
+            "serene",
+            "devoted",
+            "wise"
+        ],
+        "bio": "Elven maiden with a gentle spirit and enduring heart. Seeking someone who values love, sacrifice, and timeless connection.",
+        "create_time": "2025-01-12T08:03:00",
+        "update_time": "2025-01-12T08:03:00"
+    },
+    {
+        "user_id": "user_e2b8935f",
+        "name": "Bilbo Baggins",
+        "age": 50,
+        "gender": "Male",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Friendship or companionship",
+            "age_range": "40-60",
+            "relationship_type": "Casual or comfortable companionship"
+        },
+        "hobbies": [
+            "writing",
+            "mapmaking",
+            "tea drinking",
+            "adventuring"
+        ],
+        "personality_traits": [
+            "curious",
+            "clever",
+            "warm-hearted",
+            "resourceful"
+        ],
+        "bio": "Hobbit who enjoys comfort but also has a surprising taste for adventure. Lover of stories, maps, and second breakfasts.",
+        "create_time": "2025-01-10T10:05:00",
+        "update_time": "2025-01-10T10:05:00"
+    },
+    {
+        "user_id": "user_f283dca5",
+        "name": "Thorin Oakenshield",
+        "age": 195,
+        "gender": "Male",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Lifelong partnership",
+            "age_range": "100-220",
+            "relationship_type": "Deep commitment"
+        },
+        "hobbies": [
+            "craftsmanship",
+            "leadership",
+            "treasure hunting",
+            "singing dwarven songs"
+        ],
+        "personality_traits": [
+            "proud",
+            "determined",
+            "charismatic",
+            "loyal"
+        ],
+        "bio": "Dwarven leader seeking someone strong in spirit and loyal of heart. I value honor, legacy, and the pursuit of reclaiming what matters.",
+        "create_time": "2025-01-10T10:05:00",
+        "update_time": "2025-01-10T10:05:00"
+    },
+    {
+        "user_id": "user_ab10583e",
+        "name": "Tauriel",
+        "age": 600,
+        "gender": "Female",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Open to possibilities",
+            "age_range": "300-2000",
+            "relationship_type": "Connection with purpose"
+        },
+        "hobbies": [
+            "archery",
+            "exploration",
+            "protecting her people",
+            "music"
+        ],
+        "personality_traits": [
+            "brave",
+            "compassionate",
+            "independent",
+            "idealistic"
+        ],
+        "bio": "Warrior of the Woodland Realm seeking someone who values courage, compassion, and seeing beyond old boundaries.",
+        "create_time": "2025-01-10T10:05:00",
+        "update_time": "2025-01-10T10:05:00"
+    },
+    {
+        "user_id": "user_f72972c3",
+        "name": "Meriadoc Brandybuck",
+        "age": 37,
+        "gender": "Male",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Fun, adventurous partner",
+            "age_range": "30-45",
+            "relationship_type": "Long-term"
+        },
+        "hobbies": [
+            "riding",
+            "map exploring",
+            "storytelling",
+            "festivals"
+        ],
+        "personality_traits": [
+            "clever",
+            "brave",
+            "loyal",
+            "energetic"
+        ],
+        "bio": "Shire-born adventurer who enjoys good company, good ale, and a bit of mischief. Looking for someone lively and kind-hearted.",
+        "create_time": "2025-01-13T09:18:00",
+        "update_time": "2025-01-13T09:18:00"
+    },
+    {
+        "user_id": "user_05a6c032",
+        "name": "Peregrin Took",
+        "age": 29,
+        "gender": "Male",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Lighthearted connection",
+            "age_range": "25-40",
+            "relationship_type": "Casual to long-term"
+        },
+        "hobbies": [
+            "singing",
+            "drinking ale",
+            "exploring",
+            "pranks"
+        ],
+        "personality_traits": [
+            "cheerful",
+            "curious",
+            "impulsive",
+            "warm-hearted"
+        ],
+        "bio": "A fun-loving hobbit ready for adventure and afternoon snacks. Seeking someone who laughs easily.",
+        "create_time": "2025-01-14T11:42:00",
+        "update_time": "2025-01-14T11:42:00"
+    },
+    {
+        "user_id": "user_d4ae860a",
+        "name": "Boromir",
+        "age": 41,
+        "gender": "Male",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Strong, steady companion",
+            "age_range": "30-50",
+            "relationship_type": "Long-term commitment"
+        },
+        "hobbies": [
+            "training",
+            "leadership",
+            "horn blowing",
+            "strategy"
+        ],
+        "personality_traits": [
+            "protective",
+            "bold",
+            "passionate",
+            "honorable"
+        ],
+        "bio": "Captain of Gondor. Proud, brave, and dedicated. Seeking someone who values strength, loyalty, and purpose.",
+        "create_time": "2025-01-15T15:26:00",
+        "update_time": "2025-01-15T15:26:00"
+    },
+    {
+        "user_id": "user_9d438bba",
+        "name": "Faramir",
+        "age": 36,
+        "gender": "Male",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Gentle, thoughtful partner",
+            "age_range": "28-45",
+            "relationship_type": "Long-term"
+        },
+        "hobbies": [
+            "reading",
+            "herbal study",
+            "archery",
+            "quiet walks"
+        ],
+        "personality_traits": [
+            "wise",
+            "calm",
+            "noble",
+            "empathetic"
+        ],
+        "bio": "A man of Gondor with a soft heart and sharp mind. Seeking someone grounded and compassionate.",
+        "create_time": "2025-01-16T08:57:00",
+        "update_time": "2025-01-16T08:57:00"
+    },
+    {
+        "user_id": "user_df0d72dc",
+        "name": "Éowyn",
+        "age": 24,
+        "gender": "Female",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Brave, noble partner",
+            "age_range": "25-45",
+            "relationship_type": "Committed relationship"
+        },
+        "hobbies": [
+            "sword training",
+            "horseback riding",
+            "poetry",
+            "healing arts"
+        ],
+        "personality_traits": [
+            "brave",
+            "independent",
+            "passionate",
+            "strong-willed"
+        ],
+        "bio": "Shieldmaiden of Rohan seeking someone who respects strength and vulnerability alike.",
+        "create_time": "2025-01-17T10:15:00",
+        "update_time": "2025-01-17T10:15:00"
+    },
+    {
+        "user_id": "user_c3cd647d",
+        "name": "Galadriel",
+        "age": 8372,
+        "gender": "Female",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Wise and grounded partner",
+            "age_range": "1000-9000",
+            "relationship_type": "Long-term"
+        },
+        "hobbies": [
+            "crafting visions",
+            "elven lore",
+            "meditation",
+            "gardening"
+        ],
+        "personality_traits": [
+            "mysterious",
+            "powerful",
+            "wise",
+            "calm"
+        ],
+        "bio": "Ancient elf with deep wisdom. Seeking someone who can appreciate quiet strength and timeless beauty.",
+        "create_time": "2025-01-20T07:04:00",
+        "update_time": "2025-01-20T07:04:00"
+    },
+    {
+        "user_id": "user_a40ac6c6",
+        "name": "Saruman",
+        "age": 2019,
+        "gender": "Male",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Intellectual partner",
+            "age_range": "500-4000",
+            "relationship_type": "Companionship"
+        },
+        "hobbies": [
+            "studying lore",
+            "experiments",
+            "strategizing",
+            "crafting devices"
+        ],
+        "personality_traits": [
+            "intelligent",
+            "ambitious",
+            "strategic",
+            "persuasive"
+        ],
+        "bio": "A mind of great power seeking someone who values intellect, ambition, and discovery.",
+        "create_time": "2025-01-21T19:22:00",
+        "update_time": "2025-01-21T19:22:00"
+    },
+    {
+        "user_id": "user_6f80215a",
+        "name": "Gollum",
+        "age": 589,
+        "gender": "Male",
+        "sexual_orientation": "Complicated",
+        "preferences": {
+            "looking_for": "Understanding partner",
+            "age_range": "Any",
+            "relationship_type": "Flexible"
+        },
+        "hobbies": [
+            "fishing",
+            "caving",
+            "whispering",
+            "collecting precious things"
+        ],
+        "personality_traits": [
+            "obsessive",
+            "cunning",
+            "fragile",
+            "surprising"
+        ],
+        "bio": "We wants someone... someone kind, someone patient, yes precious. Not tricksy.",
+        "create_time": "2025-01-22T00:48:00",
+        "update_time": "2025-01-22T00:48:00"
+    },
+    {
+        "user_id": "user_57eaaf74",
+        "name": "Kíli",
+        "age": 77,
+        "gender": "Male",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Romantic connection",
+            "age_range": "60-100",
+            "relationship_type": "Long-term"
+        },
+        "hobbies": [
+            "archery",
+            "adventures",
+            "playing music",
+            "trekking"
+        ],
+        "personality_traits": [
+            "romantic",
+            "courageous",
+            "playful",
+            "brave"
+        ],
+        "bio": "Young dwarf with an adventurous heart seeking someone inspiring and open-minded.",
+        "create_time": "2025-01-24T09:58:00",
+        "update_time": "2025-01-24T09:58:00"
+    },
+    {
+        "user_id": "user_c893e477",
+        "name": "Sauron",
+        "age": 10000,
+        "gender": "Male",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Powerful and loyal partner",
+            "age_range": "5000-20000",
+            "relationship_type": "Dominant partnership"
+        },
+        "hobbies": [
+            "crafting rings",
+            "domination strategies",
+            "shadow manipulation",
+            "surveillance"
+        ],
+        "personality_traits": [
+            "ambitious",
+            "intimidating",
+            "strategic",
+            "unyielding"
+        ],
+        "bio": "Dark lord seeking a partner who appreciates power, ambition, and total commitment to their shared goals.",
+        "create_time": "2025-02-01T10:22:00",
+        "update_time": "2025-02-01T10:22:00"
+    },
+    {
+        "user_id": "user_4e437ac0",
+        "name": "Witch-king of Angmar",
+        "age": 9999,
+        "gender": "Male",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Partner with courage and cunning",
+            "age_range": "5000-15000",
+            "relationship_type": "Dominant companionship"
+        },
+        "hobbies": [
+            "riding fell beasts",
+            "fear tactics",
+            "sorcery",
+            "plotting"
+        ],
+        "personality_traits": [
+            "fearsome",
+            "manipulative",
+            "ruthless",
+            "calculating"
+        ],
+        "bio": "Servant of Sauron, seeking a partner who thrives in shadows, strategy, and sheer dominance.",
+        "create_time": "2025-02-02T14:11:00",
+        "update_time": "2025-02-02T14:11:00"
+    },
+    {
+        "user_id": "user_4d2a4997",
+        "name": "Smaug",
+        "age": 200,
+        "gender": "Male",
+        "sexual_orientation": "Straight",
+        "preferences": {
+            "looking_for": "Loyal admirer",
+            "age_range": "Any",
+            "relationship_type": "Intense companionship"
+        },
+        "hobbies": [
+            "hoarding treasure",
+            "flying",
+            "fire breathing",
+            "intimidation"
+        ],
+        "personality_traits": [
+            "proud",
+            "greedy",
+            "cunning",
+            "flamboyant"
+        ],
+        "bio": "Dragon of Erebor seeking a devoted admirer who appreciates gold, danger, and fiery passion.",
+        "create_time": "2025-02-04T16:33:00",
+        "update_time": "2025-02-04T16:33:00"
+    }
+]
