@@ -1,5 +1,7 @@
 # RomAIance ❤️
 
+![Alt text](RomAIance.png)
+
 ## Overview
 **RomAIance** is an interactive AI-powered matchmaking application that leverages a **Multi-Agent System** to help users:
 
