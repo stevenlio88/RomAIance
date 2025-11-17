@@ -26,7 +26,7 @@ This project was developed as part of the [**Agents Intensive - Capstone Project
 
 Built with ❤️ using **Google ADK**
 
-## 🏗️ Architecture
+## Architecture
 
 ### Multi-Agent System
 The system is built using several specialized agents:
@@ -43,7 +43,7 @@ Agents communicate asynchronously and hand off tasks to each other via Google AD
 - AI-generated matches and messages are **suggestions only** and may not reflect real-world compatibility.  
 - Users should **not rely on this app for real dating decisions**. This project is purely for experimentation and learning.  
 
-## 🚀 Quick Start
+## Quick Start
 
 ⚠️ Note: RomAIance requires Python 3.9+.
 
@@ -67,7 +67,7 @@ python -m RomAIance.app
 ```
 >⚠️ Make sure you are in the root directory of the project (RomAIance/) when running this command so all relative paths work correctly.
 
-## 📖 How It Works
+## How It Works
 
 ### Phase 1: Collect Basic User Information
 - Users are guided step-by-step to provide:
@@ -113,7 +113,7 @@ User is allowed to update their profile and find new matches again, or pointing 
 4. Asks for confirmation to send.
 5. Sends message or allows user to regenerate if desired.
 
-## 💬 Example Conversation Flow
+## Example Conversation Flow
 
 ### Phase 1: Basic info gathering
 ```
@@ -256,7 +256,7 @@ Take care! 💘
 ============================================================
 ```
 
-## 🔧 Project Structure
+## Project Structure
 
 ```
 RomAIance/
@@ -275,7 +275,7 @@ RomAIance/
 └─ tools.py
 ```
 
-## 📚 Learn More
+## Learn More
 
 - [Google ADK Documentation](https://google.github.io/adk-docs/)
 - [Google ADK Samples (Python)](https://github.com/google/adk-samples)
