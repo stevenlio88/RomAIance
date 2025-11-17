@@ -1,6 +1,6 @@
 # RomAIance ❤️
 
-![Alt text](RomAIance.png)
+<img src="RomAIance.png" alt="Logo" width="200"/>
 
 ## Overview
 **RomAIance** is an interactive AI-powered matchmaking application that leverages a **Multi-Agent System** to help users:
