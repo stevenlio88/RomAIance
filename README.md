@@ -18,6 +18,8 @@ The project demonstrates how multiple agents can collaborate asynchronously usin
 
 This project was developed as part of the [**Agents Intensive - Capstone Project**](https://www.kaggle.com/competitions/agents-intensive-capstone-project) during the [**5-Day AI Agents Intensive Course**](https://www.kaggle.com/learn-guide/5-day-agents) with Google (Nov 10–14, 2025).
 
+The detailed captstone write up submission on Kaggle can be found [here](https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/romaiance-ai-powered-match-making).
+
 ## 👤 Author
 
 **Steven Lio**  
